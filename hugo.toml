@@ -68,3 +68,6 @@ timeout = "120s"
   [services.rss]
     limit = 100
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
