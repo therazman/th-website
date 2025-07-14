@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ateliere on Theodora Scurtu</title>
+    <link>http://localhost:1313/categories/ateliere/</link>
+    <description>Recent content in Ateliere on Theodora Scurtu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>user@example.com (Theodora Scurtu)</managingEditor>
+    <webMaster>user@example.com (Theodora Scurtu)</webMaster>
+    <copyright>© Theodora Scurt</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/ateliere/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ECOOP</title>
+      <link>http://localhost:1313/ateliere/ecoop/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0300</pubDate><author>user@example.com (Theodora Scurtu)</author>
+      <guid>http://localhost:1313/ateliere/ecoop/</guid>
+        <media:content url="http://localhost:1313/ateliere/ecoop/img13_hu_3b3e539283ae23a1.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/ateliere/ecoop/img13_hu_3b3e539283ae23a1.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Richis</title>
+      <link>http://localhost:1313/ateliere/richis/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0200</pubDate><author>user@example.com (Theodora Scurtu)</author>
+      <guid>http://localhost:1313/ateliere/richis/</guid>
+        <media:content url="http://localhost:1313/ateliere/richis/img10_hu_a0423e65608752a.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/ateliere/richis/img10_hu_a0423e65608752a.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
