@@ -1,6 +1,6 @@
 
 
-baseURL = 'https://www.theodorascurtu.com/'
+baseURL = 'https://therazman.github.io/'
 languageCode = 'en-us'
 title = 'Theodora Scurtu'
 theme = 'gallery'
